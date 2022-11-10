@@ -1,12 +1,13 @@
+
 # Lending Club Case Study
 > Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. The Case study provides a financial risk analysis service enabling the lending club to properly decide on accepting or rejecting loan applications, and guide for proper interest rate to be applied for accepted applications.
 
 
 ## Table of Contents
-* [General_Info]
-* [Technologies_Used]
-* [Conclusions]
-* [Acknowledgements]
+* [General_Info](#general_info)
+* [Technologies_Used](#technologies_used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
 ## General Info
     The analysis uses historical data set provided by the lending club and identifies categorical and continious variables and their influence on on the risk of Defaulting. The analysis is based on historical data of old loans that are either fully paid, or defaulted. Current loans are excluded from the analysis as they can't considered as defaulted
